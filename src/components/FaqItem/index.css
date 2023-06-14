@@ -1,0 +1,36 @@
+/* Write your code here. */
+.faq-item {
+  list-style: none;
+  width: 100%;
+  border: 2px solid #d7dae6;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+.question-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0px;
+}
+.question {
+  margin: 0px;
+  color: #52606d;
+  font-size: 22px;
+}
+.plus-or-minus-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0px;
+}
+.hr-line {
+  background-color: #d7dae6;
+  margin-top: 30px;
+}
+.answer-text {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  margin-top: 25px;
+}
